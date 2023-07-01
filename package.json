@@ -1,0 +1,12 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "A memory game where 20 words are written out on the backside on the card that you can click to flip.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
